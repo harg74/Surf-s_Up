@@ -27,6 +27,7 @@ Since our investors required more information about the temperatures trends befo
   - *Precipitation:*
 
 ![plot_prcp](https://user-images.githubusercontent.com/78564912/141714124-ff8c1929-9fbe-441c-8722-fd441e6718c3.png)
+
 ![desc_prcp](https://user-images.githubusercontent.com/78564912/141714154-7b33ef2f-f0fd-4213-9036-46936a47a65b.png)
  
 
