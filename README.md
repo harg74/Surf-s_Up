@@ -39,8 +39,8 @@ Since our investors required more information about the temperatures trends befo
 
 - Additional query analysis between June and December precipitations:
   - There are 176 less observations in total in December than in June.
-  - The mean precipitation in December is .2168, whereas in june is .1363
-  - The max precipitation differs among these two months by 1.99 having December the higher one with 6.42 and June the lower one with 4.43
+  - The mean precipitation in December is .2168, whereas in june is .1363.
+  - The max precipitation differs among these two months by 1.99 having December the higher one with 6.42 and June the lower one with 4.43.
 
 ## 3. Summary
 
