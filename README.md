@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-Since our investors required more information about the temperatures trends before opening the surf shop, they requested the temperature data for June and December in Oahu, Hawaii. This way, they would determine if the surf ice cream shop business is sustainable in a yearly-round basis.
+Since our investors required more information about the temperatures trends before opening the surf shop, they requested the temperature data for June and December in Oahu, Hawaii. This way, they would determine if the Surf & Ice Cream Shop business is sustainable in a yearly-round basis.
 
 
 ## 2. Results
@@ -44,8 +44,8 @@ Since our investors required more information about the temperatures trends befo
 
 ## 3. Summary
 
-Basing our decision for opening a business, only in the temperatures as the key indicator, I would determine that is viable. Even though temperatures recorded in December seem to vary more than those of June, December would still provide appropriate weather conditions for both surfing and demand in ice cream.
+Basing our decision for opening a business, in only the temperatures as the key indicator, it would be telling us that is viable. Even though temperatures recorded in December seem to vary more than those of June, December would still provide appropriate weather conditions for both surfing and demand in ice cream.
 
-On the other hand, we can see that the precipitation in December is higher than in June, having a higher change of bad climate during this month. 
+On the other hand, we can see that the precipitation in December is higher than in June, having a higher change of bad climate conditions during this month. 
 
-However, we would be foolishing ourselves if we only take in consideration the temperatures and precipitation to open our business. We would need to also consider for example: wave swell and existing competitition to determine the viability of the project.
+However, we would be fooling ourselves if we only take in consideration the temperatures and precipitation to open our business. We would need to also consider for example: wave swell and existing competitition of these kind of business in the area, to determine the viability of the project.
