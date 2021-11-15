@@ -43,6 +43,17 @@ Since our investors required more information about the temperatures trends befo
   - The mean precipitation in December is .2168, whereas in june is .1363.
   - The max precipitation differs among these two months by 1.99 having December the higher one with 6.42 and June the lower one with 4.43.
 
+- Additional query analysis between June and December for most active Station
+  - The most active station is USC00519281 with 2,772 observations.
+  - The mean, min and max, temperatures do not differ significatively, from the temperatures registered from the other stations.
+<img width="1112" alt="Screen Shot 2021-11-15 at 8 52 05" src="https://user-images.githubusercontent.com/78564912/141803498-fc67fe9a-acf2-4ec5-9c84-b2f8904c5155.png">
+
+- The same happened with the distributions for June a and December for station USC00519281.
+
+<img width="433" alt="Screen Shot 2021-11-15 at 8 56 36" src="https://user-images.githubusercontent.com/78564912/141804659-a8bc66df-a0d4-41f9-acb7-983ac219ebfe.png"> ![Screen Shot 2021-11-15 at 8 49 21](https://user-images.githubusercontent.com/78564912/141804691-b949c651-73f9-4bfb-a640-0e821262fc56.png)
+
+- With this aditional query we can conclude that we gather the sufficient data to perform the analysis.
+
 ## 3. Summary
 
 Basing our decision for opening a business, in only the temperatures as the key indicator, it would be telling us that is viable. Even though temperatures recorded in December seem to vary more than those of June, December would still provide appropriate weather conditions for both surfing and demand in ice cream.
